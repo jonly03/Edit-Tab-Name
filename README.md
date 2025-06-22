@@ -4,7 +4,9 @@ Chrome Extension to Edit the tab name
 
 ## How the Extension works
 
-<video controls src="Resources/Demo.mp4" title="Title"></video>
+![Right-click](Resources/ChromeEx-demo1.png)
+![Edit tab name](Resources/ChromeEx-demo2.png)
+![Edit tab name](Resources/ChromeEx-demo3.png)
 
 ## How to use the Extension
 
